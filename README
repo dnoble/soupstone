@@ -1,1 +1,15 @@
-Each "soupstone" branch should be a basic application (or some other type of component) that can be used to jump-start development of new projects.
+This is a basic Rails app with some common functionality.
+Examples of what should be coming soon:
+* Unit tests
+* Presentable HTML and CSS
+* Users
+  login, logout, self-registration, confirm email, change password,
+  remember me, forgot password, admin interface to manage users
+* YUI Grids CSS, or equivalent
+* REST
+* Tags
+* Comments
+* Rating
+* Full text search
+* Attachments
+
