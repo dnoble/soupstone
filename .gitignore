@@ -1,5 +1,6 @@
-db
-log/development.log
-log/production.log
-log/server.log
-log/test.log
+config/database.yml
+coverage
+db/*.sqlite3
+doc/app/*
+log/*.log
+tmp/**/*
